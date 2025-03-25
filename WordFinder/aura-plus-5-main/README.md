@@ -81,11 +81,3 @@ npx react-native run-android
 - **poc_desktop :** Contient le proof of concept (POC) de l'application desktop.
 - **home_page :** Représente la branche où nous avons essayé d'intégrer la page d'accueil développée par Hiba.
 
-## Équipe Aura+5
-
-- Lydia Akmoussi 
-- Nour Elhouda Bouamlat
-- Papa Bassirou Diop
-- Manon Glaude
-- Lina Medani
-- Hiba Oumsid
